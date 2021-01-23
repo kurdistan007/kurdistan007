@@ -1,5 +1,5 @@
 ## ⚡WELCOME TO MY PROFILE⚡
-<p align="center"><a href="https://github.com/kurdistan007"><img src="https://user-images.githubusercontent.com/61245852/100596921-cead7e00-330d-11eb-84f9-35b3ba15c808.gif" height='195' alt="Biyar-Hussein">
+<p align="center"><a href="https://github.com/kurdistan007"><img src="https://user-images.githubusercontent.com/61245852/105578881-4f2fae80-5d94-11eb-9c02-7638fc2e5f93.gif" height='195' alt="Biyar-Hussein">
 <a href="https://github.com/kurdistan007"><img title="Biyar-Hussein" src="https://github-readme-stats.vercel.app/api?username=kurdistan007&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
